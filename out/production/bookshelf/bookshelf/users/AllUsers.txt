@@ -1,0 +1,2 @@
+admin:111:admin@tut.by:true
+user:222:user@tut.by:false
